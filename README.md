@@ -12,6 +12,12 @@ cd /path/to/your/target/directory
 ```
 git clone https://github.com/garfbild/MASATI-yolo.git
 ```
+## Running
+You might need to modify the directories to match your particular directory path
+
+1. Run convert_yolo_format.py
+2. Run train_test_val_split.py
+
 ## Citation
 ```
 @article{Gallego2018,
